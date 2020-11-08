@@ -1,0 +1,24 @@
+.mainContainer{
+    text-align: center;
+    /* margin: auto; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.amountContainer{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    width: 270px;
+    background: #414950;
+    border-radius: 5px;
+    height: 38px;
+    padding-top: 7px;
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+h5{
+    font-size: 18px;
+    font-weight: 700;
+}
